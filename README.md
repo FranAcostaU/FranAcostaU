@@ -8,5 +8,6 @@
   
 - 📫 How to reach me:
 - Email: f.acostaugalde@gmail.com
+- Linkedin: linkedin.com/in/francisco-acosta-ugalde-274300230
   
 - ⚡ Fun fact: I did debate throughout high school and college and won a few awards :) 
