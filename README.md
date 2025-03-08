@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @FranAcostaU or Francisco Acosta Ugalde
-  
--  Pronouns: He/Him
-  
-- 👀 I’m currently interested in data analytics, I follow poltical trends and analyze them through Excel or Tableau 
-  
-- 🌱 I’m currently learning R and Python
-  
-- 📫 How to reach me:
-- Email: f.acostaugalde@gmail.com
-- Linkedin: linkedin.com/in/francisco-acosta-ugalde-274300230
-  
-- ⚡ Fun fact: I did debate throughout high school and college and won a few awards :) 
+👋 Hi, I’m @FranAcostaU or Francisco Acosta Ugalde
+This is the overview page for both my educational and self-study projects. 
+Here is a list of completed projects alongside with summary.
+Click the link for deeper explaination for each project.
+
+Excel Project: Title 
